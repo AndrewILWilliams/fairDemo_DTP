@@ -1,0 +1,15 @@
+name: dtp_2021
+channels:
+  - conda-forge
+dependencies:
+  - python=3.7.*
+  - numpy
+  - ipykernel
+  - jupyter
+  - jupyterlab
+  - scipy
+  - matplotlib
+  - pandas
+  - xarray
+  - pip:
+    - fair

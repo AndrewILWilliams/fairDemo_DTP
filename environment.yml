@@ -1,15 +1,7 @@
 name: dtp_2021
 channels:
-  - conda-forge
+  - defaults
 dependencies:
-  - python=3.7.*
-  - numpy
-  - ipykernel
-  - jupyter
+  - python=3.7
   - jupyterlab
-  - scipy
-  - matplotlib
-  - pandas
-  - xarray
-  - pip:
-    - fair
+prefix: /opt/anaconda3/envs/dtp_2021
