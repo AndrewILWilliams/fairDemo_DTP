@@ -4,4 +4,9 @@ channels:
 dependencies:
   - python=3.7
   - jupyterlab
+  - matplotlib
+  - numpy
+  - xarray
+  - pip:
+    - fair
 prefix: /opt/anaconda3/envs/dtp_2021
