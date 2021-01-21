@@ -1,15 +1,11 @@
 # fairDemo_DTP
 Notebooks and binder instance for the Oxford DTP Physical Climate workshop 
 
-# Conda environment with environment.yml
-
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AndrewWilliams3142/fairDemo_DTP/main)
-
-A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-http://mybinder.org/v2/gh/binder-examples/conda_environment/master?filepath=index.ipynb
+https://mybinder.org/v2/gh/AndrewWilliams3142/fairDemo_DTP/main
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
