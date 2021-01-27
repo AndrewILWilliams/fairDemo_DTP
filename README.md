@@ -15,3 +15,6 @@ The model we're using is called the `Finite-amplitude Impulse Response` model, o
 
 For more information on FaIR, read the documentation and examples [here!](https://readthedocs.org/projects/fair/downloads/pdf/latest/)
 
+## Acknowledgements:
+
+Thanks to Peter Watson and Myles Allen for creating the first iteration of these notebooks, and to the `FaIR` development team for making such a great model!
