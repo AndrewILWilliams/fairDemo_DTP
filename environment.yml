@@ -6,5 +6,5 @@ dependencies:
   - matplotlib
   - numpy
   - pip:
-    - fair
+    - fair=1.6.1
 prefix: /opt/anaconda3/envs/dtp_2021
